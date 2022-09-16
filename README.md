@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/1829079/newRoj/_apis/build/status/prithwish960.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/1829079/newRoj/_build/latest?definitionId=34&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
